@@ -12,6 +12,7 @@
 - lang:de, path:只跟第二格的介词.md, tags:preposition, genitive, level:B1, type:grammar, hash:sha256:ba101c0577f51c01e0f67a8082014532ecb1a549fea8e2446ce51978c9e6a18f
 - lang:de, path:只跟第四格的介词.md, tags:preposition, accusative, level:A2, type:grammar, hash:sha256:e1b4f3a8ee9cdb6cfa2ae242aa26e28b5cd474684ad1b9febfcc4a6988b11d21
 - lang:de, path:名词复数第三格词尾.md, tags:noun, dative, plural, ending, level:A2, type:grammar, hash:sha256:cdf89fa4ba9b2aa9872ce9479ba39b634dff8f4799dae1244b643b44035a54cb
+- lang:de, path:否定冠词.md, tags:negative, article, level:A2, type:grammar, hash:sha256:682d935346e5da70a8ab3e33a101f5f06225454fb3d823584d561955cfe305f9
 - lang:de, path:定冠词.md, tags:definite, article, level:A2, type:grammar, hash:sha256:8a6d64c3c1b7038704840d75dd9521f1291043a9a22eceb204dde673dc60cfdb
 - lang:de, path:形容词词尾变化.md, tags:adjective, ending, declension, level:A2-B1, type:grammar, hash:sha256:56c7b33614039d1a5bb72407a5b94856fec88da5ca6bda85f44c2e384e752df1
 - lang:de, path:物主代词.md, tags:possessive, pronoun, case, nominativ, dativ, akkusativ, level:A2, type:grammar, hash:sha256:8e8414139991b46bbdd63c2358ca81502cf6d82e261ba10787e415eda5307f22
